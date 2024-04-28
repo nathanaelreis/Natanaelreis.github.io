@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.carta{
+    margin: 20px;
+    width: 600px;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+h1{
+    margin: 10px 30%;
+}
+
+#dados{
+    margin-left: 23px;
+}
+#int{
+    margin-left: 40px;
+}
+
+#corpo{
+    margin: 0 10%;
+    width: 450px;
+    text-align: center;
+}
+
+#ass{
+    width: 120px;
+    margin-left: 70%;
+}
